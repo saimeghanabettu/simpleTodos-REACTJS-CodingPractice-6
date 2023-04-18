@@ -1,0 +1,32 @@
+.bg-container {
+  background-color: #ffc2a0;
+  min-height: 100vh;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.card-container {
+  background-color: #ffffff;
+  height: 90vh;
+  width: 95%;
+  border-radius: 10px;
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.card-heading {
+  color: #ff8542;
+  font-family: 'Roboto';
+  font-weight: bold;
+  font-size: 35px;
+  padding-top: 10px;
+  margin-bottom: 10px;
+  text-align: center;
+}
+.list-container {
+  display: flex;
+  flex-direction: column;
+}
